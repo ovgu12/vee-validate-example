@@ -1,4 +1,4 @@
-# vue-form
+# vee-validate-example
 
 ## Project setup
 ```
